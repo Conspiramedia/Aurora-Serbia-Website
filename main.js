@@ -835,13 +835,12 @@ function initSuccessModal() {
           // Успешная отправка - показываем модальное окно
           form.reset();
 
-          // Отправка целей в Яндекс.Метрику
-          if (typeof ym !== 'undefined') {
-            if (form.id === 'callForm') {
-              ym(104935828, 'reachGoal', 'form_submit_call_master');
-            } else {
-              ym(104935828, 'reachGoal', 'form_submit_request');
-            }
+          // Отправка целей в Google Analytics 4 (Яндекс.Метрика удалена для рынка Сербии)
+          if (typeof gtag !== 'undefined') {
+            const goal = (form.id === 'callForm')
+              ? 'form_submit_call_master'
+              : 'form_submit_request';
+            gtag('event', goal, { 'event_category': 'Form' });
           }
           
           // Закрываем модальное окно вызова мастера, если оно открыто

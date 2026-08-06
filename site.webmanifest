@@ -1,8 +1,8 @@
 {
-  "name": "Aurora 38 - Перетяжка мебели в Иркутске",
-  "short_name": "Aurora 38",
-  "description": "Профессиональная перетяжка мебели с 2008 года",
-  "start_url": "/",
+  "name": "Aurora — Перетяжка мебели в Белграде и Нови-Саде",
+  "short_name": "Aurora",
+  "description": "Профессиональная перетяжка мягкой мебели в Белграде и Нови-Саде",
+  "start_url": "/ru/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
