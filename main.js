@@ -518,7 +518,7 @@ function createPhoneError(form) {
     phoneError.style.marginTop = '5px';
     phoneError.style.display = 'none';
     phoneError.style.textAlign = 'center';
-    phoneError.innerHTML = 'Формат ввода: 8 902 560 52 25';
+    phoneError.innerHTML = 'Формат ввода: +381 6X XXX XXXX';
 
     const button = form.querySelector('button[type="submit"]');
     if (button) {
@@ -564,24 +564,26 @@ function initPhoneValidation() {
         value = value.replace(/\s+/g, ' ');     // Убираем лишние пробелы
         const digits = value.replace(/\D/g, ''); // Только цифры
 
+        // Форматирование под сербские номера.
+        // Международный формат: +381 6X XXX XXXX (моб.). Локальный: 06X XXX XXXX.
         let formatted = '';
-        if (digits.startsWith('7') && digits.length >= 1) {
-          formatted = '+7';
-          if (digits.length > 1) formatted += ' ' + digits.slice(1, 4);
-          if (digits.length > 4) formatted += ' ' + digits.slice(4, 7);
-          if (digits.length > 7) formatted += ' ' + digits.slice(7, 9);
-          if (digits.length > 9) formatted += ' ' + digits.slice(9, 11);
-        } else if (digits.startsWith('8') && digits.length >= 1) {
-          formatted = '8';
-          if (digits.length > 1) formatted += ' ' + digits.slice(1, 4);
-          if (digits.length > 4) formatted += ' ' + digits.slice(4, 7);
-          if (digits.length > 7) formatted += ' ' + digits.slice(7, 9);
-          if (digits.length > 9) formatted += ' ' + digits.slice(9, 11);
+        if (value.trim().startsWith('+') || digits.startsWith('381')) {
+          // Международный ввод через +381
+          const rest = digits.replace(/^381/, '');
+          formatted = '+381';
+          if (rest.length > 0) formatted += ' ' + rest.slice(0, 2);
+          if (rest.length > 2) formatted += ' ' + rest.slice(2, 5);
+          if (rest.length > 5) formatted += ' ' + rest.slice(5, 9);
+        } else if (digits.startsWith('0')) {
+          // Локальный сербский ввод через 0 (например 064 123 4567)
+          formatted = digits.slice(0, 3);
+          if (digits.length > 3) formatted += ' ' + digits.slice(3, 6);
+          if (digits.length > 6) formatted += ' ' + digits.slice(6, 10);
         } else if (digits.length > 0) {
-          formatted = digits;
-          if (digits.length > 3) formatted = digits.slice(0, 3) + ' ' + digits.slice(3, 6);
-          if (digits.length > 6) formatted = digits.slice(0, 3) + ' ' + digits.slice(3, 6) + ' ' + digits.slice(6, 8);
-          if (digits.length > 8) formatted = digits.slice(0, 3) + ' ' + digits.slice(3, 6) + ' ' + digits.slice(6, 8) + ' ' + digits.slice(8, 10);
+          // Прочий ввод — просто разбиваем группами по 3-3-4
+          formatted = digits.slice(0, 2);
+          if (digits.length > 2) formatted += ' ' + digits.slice(2, 5);
+          if (digits.length > 5) formatted += ' ' + digits.slice(5, 9);
         }
 
         phoneInput.value = formatted;
@@ -800,14 +802,16 @@ function initSuccessModal() {
       if (phoneInput) {
         const value = phoneInput.value.trim();
         const digits = value.replace(/\D/g, '');
-        const has11Digits = digits.length === 11;
-        const startsWithPlus7 = value.startsWith('+7');
-        const startsWith8 = value.startsWith('8');
+        // Валидация сербских номеров:
+        // - международный +381 + 8-9 цифр (итого 11-12 цифр, начинается с 381)
+        // - локальный 0 + 8-9 цифр (итого 9-10 цифр, начинается с 0)
+        const isIntl = value.startsWith('+') && digits.startsWith('381') && digits.length >= 11 && digits.length <= 12;
+        const isLocal = digits.startsWith('0') && digits.length >= 9 && digits.length <= 10;
 
         // Находим или создаем элемент ошибки через вспомогательную функцию
         const phoneError = createPhoneError(form);
 
-        if (!has11Digits || !(startsWithPlus7 || startsWith8)) {
+        if (!(isIntl || isLocal)) {
           phoneError.style.display = 'block';
           // Разблокируем кнопку при ошибке валидации
           if (submitButton) {
