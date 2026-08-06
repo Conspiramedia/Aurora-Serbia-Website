@@ -1,23 +1,13 @@
-# robots.txt для peretyazhka-aurora.ru
+# robots.txt для сайта Aurora (перетяжка мебели, Белград и Нови-Сад)
+# Домен — плейсхолдер __TODO-domain.rs, заменить на реальный при запуске.
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://peretyazhka-aurora.ru/sitemap.xml
+Sitemap: https://__TODO-domain.rs/sitemap.xml
 
-# ========================================
-# СКЛЕЙКА ДУБЛЕЙ С НЕЗНАЧАЩИМИ GET-ПАРАМЕТРАМИ (Clean-param)
-# ========================================
-# Clean-param сообщает роботу Яндекса, что эти параметры можно
-# игнорировать. Робот не обходит дубли повторно и объединяет все
-# сигналы (ссылки, поведение) на основной странице без параметров.
-# UTM-параметры (utm_source, utm_medium, utm_campaign) НЕ трогаем —
-# они нужны для аналитики и на индексацию не влияют так же сильно.
-
-Clean-param: etext&from&ref&source&clickid&gclid&yclid&openstat&partner&promo
-
-# Замедляем агрессивных ботов
+# Замедляем агрессивных SEO-ботов, чтобы не нагружали сервер
 User-agent: AhrefsBot
 Crawl-delay: 10
 
@@ -30,6 +20,3 @@ Disallow: /
 
 User-agent: dotbot
 Disallow: /
-
-# Host (для Яндекса)
-Host: peretyazhka-aurora.ru

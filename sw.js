@@ -1,14 +1,15 @@
-// Service Worker для Aurora 38
-// Версия кэша - изменяйте при обновлении ресурсов
-const CACHE_VERSION = 'aurora-v1';
+// Service Worker для Aurora (Белград и Нови-Сад)
+// Версия кэша - изменяйте при обновлении ресурсов.
+// v2: сброс старого кэша с иркутскими страницами после миграции на /ru/.
+const CACHE_VERSION = 'aurora-v2';
 const CACHE_NAME = `${CACHE_VERSION}::static`;
 
 // Критические ресурсы для кэширования
 const CRITICAL_ASSETS = [
-  '/',
-  '/index.html',
+  '/ru/',
   '/style.css',
   '/main.js',
+  '/site-config.js',
   '/analytics.js',
   '/cookie-consent.js',
   '/cookie-consent.css',
