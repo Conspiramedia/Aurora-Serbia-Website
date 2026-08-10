@@ -1,11 +1,11 @@
 # robots.txt для сайта Aurora (перетяжка мебели, Белград и Нови-Сад)
-# Домен — плейсхолдер __TODO-domain.rs, заменить на реальный при запуске.
+# Домен: pretapaciranje.rs
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://__TODO-domain.rs/sitemap.xml
+Sitemap: https://pretapaciranje.rs/sitemap.xml
 
 # Замедляем агрессивных SEO-ботов, чтобы не нагружали сервер
 User-agent: AhrefsBot

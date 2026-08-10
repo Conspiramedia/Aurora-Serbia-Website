@@ -21,8 +21,8 @@
     // Бренд — ПОДТВЕРЖДЁН заказчиком: просто "Aurora"
     brandName: "Aurora",
 
-    // Домен сайта (для canonical/og — пока плейсхолдер)
-    domain: "__TODO-domain.rs",
+    // Домен сайта (для canonical/og)
+    domain: "pretapaciranje.rs",
 
     // Телефон в сербском формате +381 (плейсхолдер)
     phoneDisplay: "+381 __ TODO",          // как показывать на странице
@@ -34,7 +34,7 @@
     viber: "viber://chat?number=%2B381000000000",
 
     // Почта (плейсхолдер)
-    email: "__TODO@__TODO-domain.rs",
+    email: "__TODO@pretapaciranje.rs",
 
     // Endpoint формы (сейчас старый Formspree — заменить)
     formEndpoint: "https://formspree.io/f/__TODO",
