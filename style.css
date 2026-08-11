@@ -4988,6 +4988,16 @@ a.header__lang-item:hover {
     display: none;
   }
 
+  /* На внутренних страницах логотип-картинка обёрнута в <a href="/ru/">.
+     В мобайле картинка скрыта (display:none), но пустая ссылка-обёртка
+     оставалась flex-элементом и добавляла лишний gap:12px у .header__logo —
+     из-за этого текст "Aurora | телефон" на внутренних страницах был
+     смещён на 12px вправо относительно главной ("скачок" шапки).
+     Скрываем и саму обёртку, чтобы раскладка совпадала на всех страницах. */
+  .header__logo > a:has(.header__logo-img) {
+    display: none;
+  }
+
   .header__logo-text {
     font-size: 1.1rem !important;
     white-space: normal;
