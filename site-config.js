@@ -36,8 +36,8 @@
     // Почта (реальный адрес)
     email: "info.pretapaciranje@gmail.com",
 
-    // Endpoint формы (сейчас старый Formspree — заменить)
-    formEndpoint: "https://formspree.io/f/__TODO",
+    // Endpoint формы Formspree
+    formEndpoint: "https://formspree.io/f/xvkpaode",
 
     // Google Analytics 4 (заменит Яндекс.Метрику)
     ga4Id: "G-__TODO",
