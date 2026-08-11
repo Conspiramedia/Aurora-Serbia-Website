@@ -1,4 +1,4 @@
-# robots.txt для сайта Aurora (перетяжка мебели, Белград и Нови-Сад)
+# robots.txt для сайта Aurora (перетяжка мебели, Нови-Сад)
 # Домен: pretapaciranje.rs
 
 User-agent: *
