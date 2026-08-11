@@ -33,8 +33,8 @@
     telegram: "https://t.me/__TODO",
     viber: "viber://chat?number=%2B381000000000",
 
-    // Почта (плейсхолдер)
-    email: "__TODO@pretapaciranje.rs",
+    // Почта (реальный адрес)
+    email: "info.pretapaciranje@gmail.com",
 
     // Endpoint формы (сейчас старый Formspree — заменить)
     formEndpoint: "https://formspree.io/f/__TODO",
