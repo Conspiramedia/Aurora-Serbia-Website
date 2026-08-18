@@ -1,11 +1,11 @@
 # robots.txt для сайта Aurora (перетяжка мебели, Нови-Сад)
-# Домен: pretapaciranje.rs
+# Домен: presvlacenje.rs
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://pretapaciranje.rs/sitemap.xml
+Sitemap: https://presvlacenje.rs/sitemap.xml
 
 # Замедляем агрессивных SEO-ботов, чтобы не нагружали сервер
 User-agent: AhrefsBot

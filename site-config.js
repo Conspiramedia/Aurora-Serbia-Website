@@ -22,7 +22,7 @@
     brandName: "Aurora",
 
     // Домен сайта (для canonical/og)
-    domain: "pretapaciranje.rs",
+    domain: "presvlacenje.rs",
 
     // Телефон в сербском формате +381 (плейсхолдер)
     phoneDisplay: "+381 __ TODO",          // как показывать на странице
@@ -34,7 +34,7 @@
     viber: "viber://chat?number=%2B381000000000",
 
     // Почта (реальный адрес)
-    email: "info.pretapaciranje@gmail.com",
+    email: "info.presvlacenje@gmail.com",
 
     // Endpoint формы Formspree
     formEndpoint: "https://formspree.io/f/xvkpaode",

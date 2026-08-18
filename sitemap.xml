@@ -1,492 +1,492 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Sitemap sajta Aurora (presvlačenje nameštaja, Novi Sad).
-  Domen: pretapaciranje.rs
+  Domen: presvlacenje.rs
   Dvojezično: /ru/ i /sr/ sa hreflang alternativama.
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://pretapaciranje.rs/ru/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/"/>
+    <loc>https://presvlacenje.rs/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/logo/logo.png</image:loc>
+      <image:loc>https://presvlacenje.rs/images/logo/logo.png</image:loc>
       <image:title>Aurora — presvlačenje nameštaja</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/"/>
+    <loc>https://presvlacenje.rs/sr/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/logo/logo.png</image:loc>
+      <image:loc>https://presvlacenje.rs/images/logo/logo.png</image:loc>
       <image:title>Aurora — presvlačenje nameštaja</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/novi-sad/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/novi-sad/"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/novi-sad/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/novi-sad/"/>
+    <loc>https://presvlacenje.rs/ru/novi-sad/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/novi-sad/"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/novi-sad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/novi-sad/"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/sofa.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/sofa.webp</image:loc>
       <image:title>Presvlačenje nameštaja Novi Sad</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/novi-sad/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/novi-sad/"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/novi-sad/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/novi-sad/"/>
+    <loc>https://presvlacenje.rs/sr/novi-sad/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/novi-sad/"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/novi-sad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/novi-sad/"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/sofa.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/sofa.webp</image:loc>
       <image:title>Presvlačenje nameštaja Novi Sad</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/sofa.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/sofa.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/sofa.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/sofa.html"/>
+    <loc>https://presvlacenje.rs/ru/sofa.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/sofa.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/sofa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/sofa.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/sofa.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/sofa.webp</image:loc>
       <image:title>Presvlačenje kauča</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/sofa.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/sofa.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/sofa.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/sofa.html"/>
+    <loc>https://presvlacenje.rs/sr/sofa.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/sofa.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/sofa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/sofa.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/sofa.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/sofa.webp</image:loc>
       <image:title>Presvlačenje kauča</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/armchair.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/armchair.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/armchair.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/armchair.html"/>
+    <loc>https://presvlacenje.rs/ru/armchair.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/armchair.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/armchair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/armchair.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/armchair.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/armchair.webp</image:loc>
       <image:title>Presvlačenje fotelja</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/armchair.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/armchair.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/armchair.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/armchair.html"/>
+    <loc>https://presvlacenje.rs/sr/armchair.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/armchair.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/armchair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/armchair.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/armchair.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/armchair.webp</image:loc>
       <image:title>Presvlačenje fotelja</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/chair.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/chair.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/chair.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/chair.html"/>
+    <loc>https://presvlacenje.rs/ru/chair.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/chair.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/chair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/chair.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/chair.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/chair.webp</image:loc>
       <image:title>Presvlačenje stolica</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/chair.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/chair.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/chair.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/chair.html"/>
+    <loc>https://presvlacenje.rs/sr/chair.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/chair.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/chair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/chair.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/chair.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/chair.webp</image:loc>
       <image:title>Presvlačenje stolica</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/leather.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/leather.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/leather.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/leather.html"/>
+    <loc>https://presvlacenje.rs/ru/leather.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/leather.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/leather.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/leather.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/leather.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/leather.webp</image:loc>
       <image:title>Presvlačenje kožnog nameštaja</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/leather.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/leather.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/leather.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/leather.html"/>
+    <loc>https://presvlacenje.rs/sr/leather.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/leather.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/leather.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/leather.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/leather.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/leather.webp</image:loc>
       <image:title>Presvlačenje kožnog nameštaja</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/repair.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/repair.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/repair.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/repair.html"/>
+    <loc>https://presvlacenje.rs/ru/repair.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/repair.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/repair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/repair.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/repair.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/repair.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/repair.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/repair.html"/>
+    <loc>https://presvlacenje.rs/sr/repair.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/repair.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/repair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/repair.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/zamena-napolnitelya.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/zamena-napolnitelya.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/zamena-napolnitelya.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/zamena-napolnitelya.html"/>
+    <loc>https://presvlacenje.rs/ru/zamena-napolnitelya.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/zamena-napolnitelya.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/zamena-napolnitelya.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/zamena-napolnitelya.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/filler-replacement.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/filler-replacement.webp</image:loc>
       <image:title>Zamena ispune</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/zamena-napolnitelya.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/zamena-napolnitelya.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/zamena-napolnitelya.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/zamena-napolnitelya.html"/>
+    <loc>https://presvlacenje.rs/sr/zamena-napolnitelya.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/zamena-napolnitelya.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/zamena-napolnitelya.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/zamena-napolnitelya.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/filler-replacement.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/filler-replacement.webp</image:loc>
       <image:title>Zamena ispune</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/zamena-mekhanizmov.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/zamena-mekhanizmov.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/zamena-mekhanizmov.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/zamena-mekhanizmov.html"/>
+    <loc>https://presvlacenje.rs/ru/zamena-mekhanizmov.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/zamena-mekhanizmov.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/zamena-mekhanizmov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/zamena-mekhanizmov.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/mechanism-replacement.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/mechanism-replacement.webp</image:loc>
       <image:title>Zamena mehanizama</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/zamena-mekhanizmov.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/zamena-mekhanizmov.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/zamena-mekhanizmov.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/zamena-mekhanizmov.html"/>
+    <loc>https://presvlacenje.rs/sr/zamena-mekhanizmov.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/zamena-mekhanizmov.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/zamena-mekhanizmov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/zamena-mekhanizmov.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/mechanism-replacement.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/mechanism-replacement.webp</image:loc>
       <image:title>Zamena mehanizama</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/zamena-furnitury.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/zamena-furnitury.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/zamena-furnitury.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/zamena-furnitury.html"/>
+    <loc>https://presvlacenje.rs/ru/zamena-furnitury.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/zamena-furnitury.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/zamena-furnitury.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/zamena-furnitury.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/legs-replacement.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/legs-replacement.webp</image:loc>
       <image:title>Zamena okova</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/zamena-furnitury.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/zamena-furnitury.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/zamena-furnitury.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/zamena-furnitury.html"/>
+    <loc>https://presvlacenje.rs/sr/zamena-furnitury.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/zamena-furnitury.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/zamena-furnitury.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/zamena-furnitury.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/legs-replacement.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/legs-replacement.webp</image:loc>
       <image:title>Zamena okova</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/remont-karkasa.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/remont-karkasa.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/remont-karkasa.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/remont-karkasa.html"/>
+    <loc>https://presvlacenje.rs/ru/remont-karkasa.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/remont-karkasa.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/remont-karkasa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/remont-karkasa.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/frame-repair.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/frame-repair.webp</image:loc>
       <image:title>Popravka konstrukcije</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/remont-karkasa.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/remont-karkasa.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/remont-karkasa.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/remont-karkasa.html"/>
+    <loc>https://presvlacenje.rs/sr/remont-karkasa.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/remont-karkasa.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/remont-karkasa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/remont-karkasa.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/services/frame-repair.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/services/frame-repair.webp</image:loc>
       <image:title>Popravka konstrukcije</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/prices.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/prices.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/prices.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/prices.html"/>
+    <loc>https://presvlacenje.rs/ru/prices.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/prices.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/hero/hero-bg-desktop.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/hero/hero-bg-desktop.webp</image:loc>
       <image:title>Cene</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/prices.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/prices.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/prices.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/prices.html"/>
+    <loc>https://presvlacenje.rs/sr/prices.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/prices.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pretapaciranje.rs/images/hero/hero-bg-desktop.webp</image:loc>
+      <image:loc>https://presvlacenje.rs/images/hero/hero-bg-desktop.webp</image:loc>
       <image:title>Cene</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/faq.html"/>
+    <loc>https://presvlacenje.rs/ru/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/faq.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/faq.html"/>
+    <loc>https://presvlacenje.rs/sr/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/faq.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/about.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/about.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/about.html"/>
+    <loc>https://presvlacenje.rs/ru/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/about.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/about.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/about.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/about.html"/>
+    <loc>https://presvlacenje.rs/sr/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/about.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog.html"/>
+    <loc>https://presvlacenje.rs/ru/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog.html"/>
+    <loc>https://presvlacenje.rs/sr/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
+    <loc>https://presvlacenje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
+    <loc>https://presvlacenje.rs/sr/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/kak-vybrat-tkan-dlya-peretyazhki-divana.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog/antivandalnye-tkani-chto-eto.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/antivandalnye-tkani-chto-eto.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
+    <loc>https://presvlacenje.rs/ru/blog/antivandalnye-tkani-chto-eto.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/antivandalnye-tkani-chto-eto.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog/antivandalnye-tkani-chto-eto.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/antivandalnye-tkani-chto-eto.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
+    <loc>https://presvlacenje.rs/sr/blog/antivandalnye-tkani-chto-eto.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/antivandalnye-tkani-chto-eto.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/antivandalnye-tkani-chto-eto.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/naturalnaya-kozha-vs-ekokozha.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
+    <loc>https://presvlacenje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/naturalnaya-kozha-vs-ekokozha.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog/naturalnaya-kozha-vs-ekokozha.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/naturalnaya-kozha-vs-ekokozha.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
+    <loc>https://presvlacenje.rs/sr/blog/naturalnaya-kozha-vs-ekokozha.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/naturalnaya-kozha-vs-ekokozha.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/naturalnaya-kozha-vs-ekokozha.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
+    <loc>https://presvlacenje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog/kak-uhazhivat-za-myagkoj-mebelyu.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
+    <loc>https://presvlacenje.rs/sr/blog/kak-uhazhivat-za-myagkoj-mebelyu.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/kak-uhazhivat-za-myagkoj-mebelyu.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
+    <loc>https://presvlacenje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog/7-priznakov-chto-pora-pertyaginat-mebel.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
+    <loc>https://presvlacenje.rs/sr/blog/7-priznakov-chto-pora-pertyaginat-mebel.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/7-priznakov-chto-pora-pertyaginat-mebel.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/blog/peretyazhka-sovetskogo-divana.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/peretyazhka-sovetskogo-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
+    <loc>https://presvlacenje.rs/ru/blog/peretyazhka-sovetskogo-divana.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/peretyazhka-sovetskogo-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/blog/peretyazhka-sovetskogo-divana.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/blog/peretyazhka-sovetskogo-divana.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
+    <loc>https://presvlacenje.rs/sr/blog/peretyazhka-sovetskogo-divana.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/blog/peretyazhka-sovetskogo-divana.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/blog/peretyazhka-sovetskogo-divana.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/ru/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/privacy.html"/>
+    <loc>https://presvlacenje.rs/ru/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/privacy.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://pretapaciranje.rs/sr/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://pretapaciranje.rs/ru/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://pretapaciranje.rs/sr/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pretapaciranje.rs/ru/privacy.html"/>
+    <loc>https://presvlacenje.rs/sr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://presvlacenje.rs/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://presvlacenje.rs/sr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://presvlacenje.rs/ru/privacy.html"/>
     <lastmod>2026-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
