@@ -40,7 +40,7 @@
     formEndpoint: "https://formspree.io/f/xvkpaode",
 
     // Google Analytics 4 (заменит Яндекс.Метрику)
-    ga4Id: "G-P16TWTB86S",
+    ga4Id: "G-8G0GP0F6CS",
 
     // Адреса и координаты по городам (для карт и JSON-LD)
     // Белград удалён (сайт работает только по Нови-Саду). Двухгородская
