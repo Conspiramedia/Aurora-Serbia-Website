@@ -34,7 +34,7 @@
     viber: "viber://chat?number=%2B381000000000",
 
     // Почта (реальный адрес)
-    email: "info.presvlacenje@gmail.com",
+    email: "kontakt@presvlacenje.rs",
 
     // Endpoint формы Formspree
     formEndpoint: "https://formspree.io/f/xvkpaode",
