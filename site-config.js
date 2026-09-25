@@ -25,12 +25,12 @@
     domain: "presvlacenje.rs",
 
     // Телефон в сербском формате +381 (плейсхолдер)
-    phoneDisplay: "+381 __ TODO",          // как показывать на странице
+    phoneDisplay: "+381 61 201 9769",          // как показывать на странице
     phoneHref: "381000000000",             // для tel: (только цифры, без +)
 
     // Мессенджеры (плейсхолдеры)
     whatsapp: "https://wa.me/381000000000",
-    telegram: "https://t.me/__TODO",
+    telegram: "#",
     viber: "viber://chat?number=%2B381000000000",
 
     // Почта (реальный адрес)
@@ -40,7 +40,7 @@
     formEndpoint: "https://formspree.io/f/xvkpaode",
 
     // Google Analytics 4 (заменит Яндекс.Метрику)
-    ga4Id: "G-__TODO",
+    ga4Id: "G-XXXXXXXXXX",
 
     // Адреса и координаты по городам (для карт и JSON-LD)
     // Белград удалён (сайт работает только по Нови-Саду). Двухгородская
@@ -49,7 +49,7 @@
       noviSad: {
         nameRu: "Нови-Сад",
         nameSr: "Novi Sad",
-        address: "__TODO адрес, Novi Sad, Srbija",
+        address: "Novi Sad, Srbija",
         lat: 45.267136,   // центр Нови-Сада (плейсхолдер — уточнить)
         lng: 19.833549
       }
