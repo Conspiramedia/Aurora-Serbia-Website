@@ -26,12 +26,12 @@
 
     // Телефон в сербском формате +381 (плейсхолдер)
     phoneDisplay: "+381 61 201 9769",          // как показывать на странице
-    phoneHref: "381000000000",             // для tel: (только цифры, без +)
+    phoneHref: "381612019769",             // для tel: (только цифры, без +)
 
     // Мессенджеры (плейсхолдеры)
-    whatsapp: "https://wa.me/381000000000",
+    whatsapp: "https://wa.me/381612019769",
     telegram: "#",
-    viber: "viber://chat?number=%2B381000000000",
+    viber: "viber://chat?number=%2B381612019769",
 
     // Почта (реальный адрес)
     email: "kontakt@presvlacenje.rs",
