@@ -294,17 +294,23 @@ function initCallModal() {
     }
   };
 
-  // Находим все кнопки "Вызвать мастера" (openCallModal, openCallModal2, openCallModal3, openCallModal4)
+  // Находим все кнопки "Вызвать мастера". Раньше они перечислялись по id
+  // (openCallModal, ...2, ...3, ...4) — но это ограничивало число блоков CTA.
+  // Теперь берём разом по классу .cta-block__btn--secondary плюс id-кнопки
+  // из шапки/hero, чтобы обработчик работал для любого количества CTA-блоков.
   const callButtons = [
+    ...document.querySelectorAll('.cta-block__btn--secondary'),
     document.getElementById('openCallModal'),
     document.getElementById('openCallModal2'),
     document.getElementById('openCallModal3'),
     document.getElementById('openCallModal4')
   ];
 
-  // Добавляем обработчики для всех существующих кнопок
+  // Добавляем обработчик один раз на каждую уникальную кнопку.
+  const seen = new Set();
   callButtons.forEach(btn => {
-    if (btn) {
+    if (btn && !seen.has(btn)) {
+      seen.add(btn);
       btn.addEventListener('click', openCallModal);
     }
   });
