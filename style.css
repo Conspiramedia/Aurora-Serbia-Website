@@ -4975,6 +4975,12 @@ a.header__lang-item:hover {
     border-radius: 8px;
     box-sizing: border-box;
     text-decoration: none;
+    /* Плавное «уезжание» переключателя под шапку при скролле.
+       Схлопываем по высоте + прозрачность; overflow прячет содержимое. */
+    max-height: 60px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.25s ease,
+                margin-top 0.3s ease, padding 0.3s ease, border-width 0.3s ease;
   }
 
   .header__lang-mobile .header__lang-item {
@@ -4982,6 +4988,18 @@ a.header__lang-item:hover {
     min-width: 0;
     padding: 9px;
     font-size: 14px;
+  }
+
+  /* При прокрутке страницы вниз (класс header--scrolled навешивает main.js)
+     мобильный переключатель языков схлопывается и прячется под шапку. */
+  .header--scrolled .header__lang-mobile {
+    max-height: 0;
+    opacity: 0;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-width: 0;
+    pointer-events: none;
   }
 
   .header__logo-img {
@@ -5438,6 +5456,11 @@ a.header__lang-item:hover {
     border-radius: 8px;
     box-sizing: border-box;
     text-decoration: none;
+    /* Плавное «уезжание» переключателя под шапку при скролле (планшет). */
+    max-height: 60px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.25s ease,
+                margin-top 0.3s ease, padding 0.3s ease, border-width 0.3s ease;
   }
 
   .header__lang-mobile .header__lang-item {
@@ -5445,6 +5468,17 @@ a.header__lang-item:hover {
     min-width: 0;
     padding: 10px;
     font-size: 14px;
+  }
+
+  /* При прокрутке вниз переключатель языков схлопывается под шапку. */
+  .header--scrolled .header__lang-mobile {
+    max-height: 0;
+    opacity: 0;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-width: 0;
+    pointer-events: none;
   }
 
   /* Показываем бургер на планшетах */

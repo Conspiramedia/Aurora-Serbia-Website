@@ -1,7 +1,8 @@
 // Service Worker для Aurora (Нови-Сад)
 // Версия кэша - изменяйте при обновлении ресурсов.
 // v2: сброс старого кэша с иркутскими страницами после миграции на /ru/.
-const CACHE_VERSION = 'aurora-v2';
+// v3: обновление main.js (скрытие переключателя языков) и style.css.
+const CACHE_VERSION = 'aurora-v3';
 const CACHE_NAME = `${CACHE_VERSION}::static`;
 
 // Критические ресурсы для кэширования

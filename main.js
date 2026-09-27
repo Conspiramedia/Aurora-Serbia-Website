@@ -75,7 +75,36 @@ document.addEventListener('DOMContentLoaded', function () {
   initFAQ();
   initReviewsLink();
   initSmoothScroll();
+  initHeaderScroll();
 });
+
+// =============================================================================
+// СКРЫТИЕ МОБИЛЬНОГО ПЕРЕКЛЮЧАТЕЛЯ ЯЗЫКОВ ПРИ СКРОЛЛЕ
+// =============================================================================
+// При прокрутке вниз навешиваем класс .header--scrolled на шапку — по нему
+// CSS схлопывает .header__lang-mobile (переключатель «уезжает» под шапку).
+// На десктопе переключателя-строки нет, поэтому правило видно только в мобайл/
+// планшет медиа-запросах и лишних эффектов не даёт.
+function initHeaderScroll() {
+  const header = document.querySelector('.header');
+  if (!header) return;
+
+  // Порог в 40px: небольшой скролл уже прячет тумблер, освобождая место.
+  const THRESHOLD = 40;
+
+  function onScroll() {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    if (scrollTop > THRESHOLD) {
+      header.classList.add('header--scrolled');
+    } else {
+      header.classList.remove('header--scrolled');
+    }
+  }
+
+  // passive:true — слушатель не блокирует прокрутку (плавнее на мобильных).
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll(); // выставляем корректное состояние при загрузке (если уже проскроллено)
+}
 
 // =============================================================================
 // ГАЛЕРЕЯ (LIGHTBOX)
