@@ -2,7 +2,8 @@
 // Версия кэша - изменяйте при обновлении ресурсов.
 // v2: сброс старого кэша с иркутскими страницами после миграции на /ru/.
 // v3: обновление main.js (скрытие переключателя языков) и style.css.
-const CACHE_VERSION = 'aurora-v3';
+// v4: JSON-LD sameAs (профиль Google) + новые CSS-классы кнопок Google в style.css.
+const CACHE_VERSION = 'aurora-v4';
 const CACHE_NAME = `${CACHE_VERSION}::static`;
 
 // Критические ресурсы для кэширования

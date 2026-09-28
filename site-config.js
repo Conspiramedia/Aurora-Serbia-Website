@@ -39,6 +39,14 @@
     // Endpoint формы Formspree
     formEndpoint: "https://formspree.io/f/xvkpaode",
 
+    // Google Business Profile (профиль компании в Google)
+    // googleReview — короткая ссылка на форму отзыва (g.page/r/.../review),
+    //   берётся в «Мой профиль» → «Получить больше отзывов».
+    // googleProfile — ссылка на карточку в Google Картах (maps.app.goo.gl/...),
+    //   берётся в Google Maps → «Поделиться» → «Копировать ссылку».
+    googleReview: "https://g.page/r/CZMLi5S5nKCDEBI/review",
+    googleProfile: "https://maps.app.goo.gl/b6zjsFpeNSQDDtpr7",
+
     // Google Analytics 4 (заменит Яндекс.Метрику)
     ga4Id: "G-8G0GP0F6CS",
 

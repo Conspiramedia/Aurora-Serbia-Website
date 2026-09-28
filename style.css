@@ -2387,6 +2387,60 @@ a.header__lang-item:hover {
   box-shadow: 0 4px 15px rgba(40, 167, 69, 0.4);
 }
 
+/* Кнопка Google — открыть профиль на Картах (фирменный синий Google) */
+.map__button--google {
+  background: #4285f4;
+  color: #fff;
+  border: none;
+}
+
+.map__button--google:hover {
+  background: #3367d6;
+  box-shadow: 0 6px 25px rgba(66, 133, 244, 0.45);
+  transform: translateY(-3px);
+}
+
+.map__button--google:active {
+  transform: translateY(-1px);
+}
+
+/* Блок с кнопкой «Оставить отзыв в Google» под списком отзывов */
+.reviews__cta {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+
+/* Сама кнопка отзыва — белая карточка в стиле Google */
+.reviews__google-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  background: #fff;
+  color: #3c4043;
+  border: 1px solid #dadce0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.reviews__google-btn:hover {
+  box-shadow: 0 6px 18px rgba(60, 64, 67, 0.25);
+  transform: translateY(-2px);
+}
+
+.reviews__google-btn:active {
+  transform: translateY(0);
+}
+
+.reviews__google-btn svg {
+  flex-shrink: 0;
+}
+
 /* Fallback для карты */
 .map__fallback {
   padding: 40px;
